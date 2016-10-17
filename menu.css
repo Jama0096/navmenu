@@ -80,6 +80,7 @@ header{
 .menu-v{
     width: 20%;
     float:left;
+    background-color: #00A9CC;
 }
     .menu-v li{
         /* style the list items to remove the bullets 
