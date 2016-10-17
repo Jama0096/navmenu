@@ -27,14 +27,14 @@ html, body{
 h1{
     font-size: 6.854rem;
     /* ADD the Google serif font to this font stack */
-    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; 
+    font-family: "Arvo" , Crete Round, serif;
     padding: 1rem 2rem;
     background-color: #007F99;
 }
 h2{
     font-size: 4.23rem;
     /* ADD the Google serif font to this font stack */
-    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-family: "Arvo" , Crete Round, serif;
     padding: 1rem 2rem;
     color: #84C2EA;
 }
