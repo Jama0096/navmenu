@@ -57,6 +57,7 @@ header{
         /* style the list items to remove the bullets 
         and line up horizontally
         and take up 20% of the width of the ul */
+    list-style-type: none;
     width: 20%;
     float: left;
     text-align: center;
@@ -80,6 +81,7 @@ header{
     width: 20%;
     float:left;
     background-color: #00A9CC;
+    list-style-type: none;
 }
     .menu-v li{
         /* style the list items to remove the bullets 
