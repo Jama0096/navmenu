@@ -83,7 +83,7 @@ header{
         }
         .menu-h a:hover,
         .menu-h a:active{
-            
+         color: #9E00D0;
         }
 .menu-v{
     width: 20%;
@@ -95,7 +95,7 @@ header{
 }
     .menu-v li{
         /* style the list items to remove the bullets 
-        and line up vertically
+        and line up vertically#9E00D0;
         and take up 100% of the width of the ul */
         list-style-type: none;
     }
