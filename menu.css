@@ -84,6 +84,7 @@ header{
         .menu-h a:hover,
         .menu-h a:active{
          color: #009D0D;
+         display: block;
         }
 .menu-v{
     width: 20%;
@@ -107,7 +108,7 @@ header{
         .menu-v a:hover,
         .menu-v a:active{
             color: #009D0D;
-            display: block;
+           
         }
 main{
     width:80%;
