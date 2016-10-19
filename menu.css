@@ -93,7 +93,7 @@ header{
     background-color: #00A9CC;
     text-align: center;
     margin: 0;
-    float: left;
+   
     
 }
     .menu-v li{
@@ -102,6 +102,11 @@ header{
         and take up 100% of the width of the ul */
         list-style-type: none;
         margin: 8px auto;
+        list-style-type: none;
+        width: 100%;
+        display: block;
+        margin: 10px auto;
+        text-align: center;
         
     }
         .menu-v a,
