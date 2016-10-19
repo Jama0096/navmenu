@@ -93,6 +93,7 @@ header{
     background-color: #00A9CC;
     text-align: center;
     margin: 0;
+    float: left;
     
 }
     .menu-v li{
