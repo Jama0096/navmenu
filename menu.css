@@ -104,6 +104,7 @@ header{
         and take up 100% of the width of the ul */
         list-style-type: none;
         margin: 8px auto;
+        background-color: yellow;
         
     
         
@@ -116,7 +117,7 @@ header{
         }
         .menu-v a:hover,
         .menu-v a:active{
-         color: #009D0D;
+         
         
          
           
