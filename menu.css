@@ -19,7 +19,7 @@ html{
 }
 html, body{
     background-color: #00404C;
-    
+
 }
 h1{
     font-size: 6.854rem;
@@ -43,10 +43,10 @@ p{
     font-size: 1.618rem;
     padding: 1rem 2rem;
     color: #84C2EA;
-   
-}   
+
+}
 .wrapper{
-    max-width: 1400px; 
+    max-width: 1400px;
     width: 80%;
     margin: 0 auto;
     background-color: #005685;
@@ -59,9 +59,10 @@ header{
 }
 .menu-h{
     width: 100%;
+    display: block;
 }
     .menu-h li{
-        /* style the list items to remove the bullets 
+        /* style the list items to remove the bullets
         and line up horizontally
         and take up 20% of the width of the ul */
     list-style-type: none;
@@ -70,15 +71,15 @@ header{
     text-align: center;
     display: block;
     background-color: #00A9CC;
+    border-bottom: 2px solid #001E36;
     border-right: 2px solid #001E36;
-   
-    
+
 }
     }
         .menu-h a,
         .menu-h a:link,
         .menu-h a:visited{
-            /* style the anchors to fill the entire width of the li 
+            /* style the anchors to fill the entire width of the li
             make sure there is padding around your text */
         }
         .menu-h a:hover,
@@ -94,21 +95,22 @@ header{
     text-align: center;
     margin: 0;
     padding: 0;
- 
-   
-    
+    display: block;
+    border-bottom: 2px solid #001E36;
+
+
 }
     .menu-v li{
-        /* style the list items to remove the bullets 
+        /* style the list items to remove the bullets
         and line up vertically#9E00D0;
         and take up 100% of the width of the ul */
         list-style-type: none;
-        margin: 8px auto;
-        background-color: yellow;
-        
-    
-        
-       
+        margin: 0;
+        display: block;
+        border-bottom: 2px solid #001E36;
+
+
+
     }
         .menu-v a,
         .menu-v a:link,
@@ -117,11 +119,11 @@ header{
         }
         .menu-v a:hover,
         .menu-v a:active{
-         
-        
-         
-          
-           
+         color: #009D0D;
+         background-color: #FFFFFF;
+         display: block;
+
+
         }
 main{
     width:80%;
